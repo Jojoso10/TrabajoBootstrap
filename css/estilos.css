@@ -1,0 +1,9 @@
+body{
+    margin-left: 10px;
+}
+.card-img-top {
+    height: 15vw;
+    object-fit: cover;
+    position: relative;
+    width: 101%;
+}
